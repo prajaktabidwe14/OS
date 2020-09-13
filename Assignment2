@@ -1,4 +1,3 @@
-ASSIGNMENT-2
 
 1. Write a script to create 10 directories, say a1,a2,...,a10
 Report error if a directory/file exists with the same name.
